@@ -7,7 +7,7 @@ class App extends React.Component {
       x: 0, y: 0
     },
     controlledPosition: {
-      x: -400, y: 200
+      x: -10, y: 10
     }
   };
 
